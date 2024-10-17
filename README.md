@@ -1,1 +1,2 @@
 # LLM-qwen
+just learning
